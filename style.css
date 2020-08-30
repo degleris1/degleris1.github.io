@@ -1,0 +1,10 @@
+body {
+    margin: 15px auto;
+    max-width: 700px;
+    line-height: 1.5;
+    font-family: 'Trebuchet MS';
+    font-size: 18px;
+    background-color: #dad7cb;
+    color: #2e2d29;
+    padding: 10px;
+}
