@@ -1,10 +1,16 @@
 body {
     margin: 15px auto;
-    max-width: 700px;
+    max-width: 800px;
     line-height: 1.5;
     font-family: 'Trebuchet MS';
-    font-size: 18px;
-    background-color: #dad7cb; 
+    font-size: 16px;
+    background-color: #FFFFFF; 
     color: #2e2d29;
     padding: 10px;
 }
+
+a {
+  color: #B83A4B;
+  text-decoration: none;
+}
+
