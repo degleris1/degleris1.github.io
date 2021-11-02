@@ -3,7 +3,7 @@
 
 @@row
 @@container
-@@left ~~~ <img src="/assets/pic.jpg" style="width:155px;height:155px;float:right;"> ~~~ @@
+@@left ~~~ <img src="/assets/headshot.jpg" style="width:155px;height:155px;float:right;"> ~~~ @@
 @@
 **Ph.D. student in EE at Stanford** \\
 *Optimization and power systems*
