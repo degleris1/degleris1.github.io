@@ -6,7 +6,7 @@
   --block-background: hsl(0, 0%, 94%);
   --output-background: hsl(0, 0%, 98%);
   --small: 14px;
-  --normal: 19px;
+  --normal: 17px;
   --text-color: hsv(0, 0%, 20%);
 }
 
@@ -89,7 +89,7 @@ html {
 /* On wide screens, fix content width to a max value. */
 @media (min-width: 940px) {
   .franklin-content {
-    width: 705px;
+    width: 750px;
     margin-left: auto;
     margin-right: auto;
   }
