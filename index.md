@@ -21,47 +21,57 @@ I'm grateful to be supported by the Stanford Graduate Fellowship and the DOE Com
 
 ## Publications
 
+* \biblabel{der24c}{}
+  [GPU Accelerated Security Constrained Optimal Power Flow](https://arxiv.org/abs/2410.17203) \\
+  Degleris, El Gamal, and Rajagopal \\
+  *Preprint* (2024)
+
+* \biblabel{der24b}{}
+  [Scalable and Interactive Electricity Grid Expansion Planning](https://arxiv.org/abs/2410.13055) \\
+  Degleris, El Gamal, and Rajagopal \\
+  *Preprint* (2024)
+
 * \biblabel{der24}{}
   [Gradient methods for scalable multi-value electricity network expansion planning](https://arxiv.org/abs/2404.01255) \\
   Degleris, El Gamal, and Rajagopal \\
   *Preprint* (2024)
 
 * \biblabel{dvepr24}{}
-  [Fast grid emissions sensitivities using parallel decentralized implicit differentiation]() \\
+  [Fast grid emissions sensitivities using parallel decentralized implicit differentiation](https://arxiv.org/abs/2408.10620) \\
   Degleris, Fuentes Valenzuela, El Gamal, and Rajagopal \\
-  *(Accepted to) IEEE SmartGridComm* (2024)
+  *IEEE SmartGridComm* (2024)
 
 * \biblabel{bmdr21}{}
-  [Equitable dynamic electricity pricing via implicitly constrained dual and subgradient methods]() \\
+  [Equitable dynamic electricity pricing via implicitly constrained dual and subgradient methods](https://ieeexplore.ieee.org/abstract/document/10333947) \\
   Balogun, Martin, Degleris, and Rajagopal \\
   *IEEE SmartGridComm* (2023)
 
 * \biblabel{vdepr23}{}
-  [Dynamic locational marginal emissions via implicit differentiation]() \\
+  [Dynamic locational marginal emissions via implicit differentiation](https://ieeexplore.ieee.org/abstract/document/10049684) \\
   Fuentes Valenzuela, Degleris, El Gamal, Pavone, and Rajagopal \\
   *IEEE Transactions on Power Systems* (2023)
 
 
 * \biblabel{wdwl23}{}
-  [Spatiotemporal clustering with Neyman-Scott processes via connections to Bayesian nonparametric mixture models]() \\
+  [Spatiotemporal clustering with Neyman-Scott processes via connections to Bayesian nonparametric mixture models](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2257896) \\
   Wang, Degleris, Williams, and Linderman \\
   *Journal of the American Statistical Association* (2023)
 
 
 * \biblabel{dver21}{}
-  [Emissions-aware electricity network expansion planning via implicit differentiation]() \\
+  [Emissions-aware electricity network expansion planning via implicit differentiation](https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/neurips2021/31/paper.pdf) \\
   Degleris, Fuentes Valenzuela, El Gamal, and Rajagopal \\
   *Climate Change Workshop at NeurIPS* (2021) **(Spotlight Talk)**
 
 
 * \biblabel{wdwl20}{}
-  [Point process models for sequence detection in high-dimensional neural spike trains](https://arxiv.org/abs/2010.04875) \\
+  [Point process models for sequence detection in high-dimensional neural spike trains](https://proceedings.neurips.cc/paper_files/paper/2020/hash/a5481cd6d7517aa3fc6476dc7d9019ab-Abstract.html) \\
   Williams, Degleris, Wang, and Linderman \\
   *NeurIPS* (2020) **(Oral Presentation)**
 
 
 * \biblabel{dg20}{}
-  [A provably correct and robust algorithm for convolutive nonnegative matrix factorization](https://arxiv.org/abs/1906.06899) \\
+  [A provably correct and robust algorithm for convolutive nonnegative matrix factorization](https://ieeexplore.ieee.org/abstract/document/9055174) \\
   Degleris and Gillis \\
   *IEEE Transactions on Signal Processing* (2020)
 
