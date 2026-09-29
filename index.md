@@ -5,12 +5,13 @@
 @@container
 @@left ~~~ <img src="/assets/headshot.jpg" style="width:155px;height:155px;float:right;"> ~~~ @@
 @@
-**Electrical Engineering PhD @ Stanford** \\
+**Research Scientist @ Gridmatic** \\
 *Optimization and power systems*
 
-I'm currently a 5th year PhD candidate studying optimization and market design for the electricity grid.
-My focus is on developing computational tools for long-term grid planning problems.
-I'm grateful to be supported by the Stanford Graduate Fellowship and the DOE Computational Science Graduate Fellowship.
+I'm currently a research scientist at [Gridmatic](https://www.gridmatic.com/).
+Previously, I obtained my PhD at Stanford University, where I studied studying optimization and market design for the electricity grid.
+My thesis focused on developing computational tools for long-term grid planning problems and was supported by the DOE Computational Science Graduate Fellowship.
+You can see a selection of my published work below.
 
 ~~~
 <div style="clear: both"></div>
@@ -21,20 +22,15 @@ I'm grateful to be supported by the Stanford Graduate Fellowship and the DOE Com
 
 ## Publications
 
+* \biblabel{der24b}{}
+  [Gradient methods for bilevel electricity grid expansion planning](https://www.sciencedirect.com/science/article/abs/pii/S0306261926006963) \\
+  Degleris, El Gamal, and Rajagopal \\
+  *Applied Energy* (2026)
+
 * \biblabel{der24c}{}
   [GPU Accelerated Security Constrained Optimal Power Flow](https://arxiv.org/abs/2410.17203) \\
   Degleris, El Gamal, and Rajagopal \\
-  *Preprint* (2024)
-
-* \biblabel{der24b}{}
-  [Scalable and Interactive Electricity Grid Expansion Planning](https://arxiv.org/abs/2410.13055) \\
-  Degleris, El Gamal, and Rajagopal \\
-  *Preprint* (2024)
-
-* \biblabel{der24}{}
-  [Gradient methods for scalable multi-value electricity network expansion planning](https://arxiv.org/abs/2404.01255) \\
-  Degleris, El Gamal, and Rajagopal \\
-  *Preprint* (2024)
+  *Optimization and Engineering* (2026)
 
 * \biblabel{dvepr24}{}
   [Fast grid emissions sensitivities using parallel decentralized implicit differentiation](https://arxiv.org/abs/2408.10620) \\
