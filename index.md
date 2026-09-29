@@ -9,7 +9,7 @@
 *Optimization and power systems*
 
 I'm currently a research scientist at [Gridmatic](https://www.gridmatic.com/).
-Previously, I obtained my PhD at Stanford University, where I studied studying optimization and market design for the electricity grid.
+Previously, I obtained my PhD at Stanford University, where I studied optimization and market design for the electricity grid.
 My thesis focused on developing computational tools for long-term grid planning problems and was supported by the DOE Computational Science Graduate Fellowship.
 You can see a selection of my published work below.
 
